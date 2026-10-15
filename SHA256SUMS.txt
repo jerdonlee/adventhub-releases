@@ -1,0 +1,2 @@
+6c1bb192fcccdd09cc58790f03009bdec94b1b7a9fa94eb570a8a6a3085f0e54  AdventHub-Events-0.3.0.apk
+78d06ed334c26077e552275e9de81ea8a62deb88f24d54b3ec55eb2a347082f4  AdventHub-Admin-0.2.0.apk
