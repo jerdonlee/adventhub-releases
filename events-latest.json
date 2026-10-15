@@ -1,8 +1,8 @@
 {
   "packageId": "org.adventhub.events",
-  "versionName": "0.3.0",
-  "versionCode": 3,
-  "url": "https://github.com/jerdonlee/adventhub-releases/releases/download/events-0.3.0-admin-0.2.0/AdventHub-Events-0.3.0.apk",
-  "sha256": "6c1bb192fcccdd09cc58790f03009bdec94b1b7a9fa94eb570a8a6a3085f0e54",
+  "versionName": "0.3.1",
+  "versionCode": 4,
+  "url": "https://github.com/jerdonlee/adventhub-releases/releases/download/events-0.3.1-admin-0.2.0/AdventHub-Events-0.3.1.apk",
+  "sha256": "067a546f6e2105fc1d7a43387712f2a706a4ea737adc4802698240c2ce10d225",
   "notes": "Signed preview build. Settings updates, scoped approvals and role management. Live Supabase setup is pending."
 }
