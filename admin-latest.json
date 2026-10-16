@@ -1,8 +1,8 @@
 {
   "packageId": "org.adventhub.admin",
-  "versionName": "0.2.0",
-  "versionCode": 2,
-  "url": "https://github.com/jerdonlee/adventhub-releases/releases/download/events-0.3.1-admin-0.2.0/AdventHub-Admin-0.2.0.apk",
-  "sha256": "78d06ed334c26077e552275e9de81ea8a62deb88f24d54b3ec55eb2a347082f4",
-  "notes": "Signed preview build. Settings updates, scoped approvals and role management. Live Supabase setup is pending."
+  "versionName": "0.2.1",
+  "versionCode": 3,
+  "url": "https://github.com/jerdonlee/adventhub-releases/releases/download/events-0.3.2-admin-0.2.1/AdventHub-Admin-0.2.1.apk",
+  "sha256": "a73c16c4d7a8a5afd3ab24b4d4d3177983916f773110f25660ae0d0466a2e40d",
+  "notes": "Connected Level 0 administration with MFA, global membership directory, approvals, role management, audit/system logs and Settings updates."
 }
